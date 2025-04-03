@@ -1,17 +1,25 @@
-﻿using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
+﻿using System;
 
-namespace Two_Sum
+namespace NumRemover
 {
-    public  class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Twosum summ = new Twosum();
-                Console.WriteLine(string.Join(", ", summ.Sum(new int[] { 2, 7, 11, 15 }, 9)));
+            int[] nums = { 3, 2, 2, 3 };
+            int val = 3;
 
-            
-            
+            Removeit remover = new Removeit();
+            int k = remover.Solution(nums, val);
+            Console.WriteLine(k);
+            // Print the modified array
+            Console.Write("[");
+            for (int i = 0; i < k; i++)
+            {
+                Console.Write(nums[i]);
+                
+            }
+            Console.WriteLine("]");
         }
     }
 }
