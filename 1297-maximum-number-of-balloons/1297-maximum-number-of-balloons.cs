@@ -30,11 +30,20 @@ public class Solution {
         l = l / 2;
         o = o / 2;
 
+        /*
         int min1 = Math.Min(b, a);
         int min2 = Math.Min(l, o);
         int min3 = Math.Min(min1, min2);
         int final = Math.Min(min3, n);
+        */
 
-        return final;
+        int min = a;
+        if (a< min) min = a;
+        if(b < min) min = b;
+        if(l < min) min = l;
+        if(o < min) min = o;
+        if(n < min) min = n;
+
+        return min;
     }
 }
