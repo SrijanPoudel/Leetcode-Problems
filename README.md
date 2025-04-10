@@ -17,14 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
@@ -35,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
