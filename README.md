@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
