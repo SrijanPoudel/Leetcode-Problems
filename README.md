@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
