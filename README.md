@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
