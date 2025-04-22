@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
