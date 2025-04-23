@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
