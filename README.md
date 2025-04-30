@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
