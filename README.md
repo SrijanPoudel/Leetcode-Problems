@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
