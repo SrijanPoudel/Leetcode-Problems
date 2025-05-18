@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1642-water-bottles](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1642-water-bottles) |
 ## Divide and Conquer
 |  |
 | ------- |
