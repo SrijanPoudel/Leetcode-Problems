@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
