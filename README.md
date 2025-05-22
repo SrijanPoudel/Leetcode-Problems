@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3429-special-array-i](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/3429-special-array-i) |
 ## Two Pointers
