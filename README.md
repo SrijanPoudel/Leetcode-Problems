@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0389-find-the-difference) |
