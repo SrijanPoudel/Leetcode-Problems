@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0268-missing-number) |
