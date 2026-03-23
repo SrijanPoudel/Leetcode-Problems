@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -192,6 +193,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
