@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0344-reverse-string) |
