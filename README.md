@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1297-maximum-number-of-balloons](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [3136-valid-word](https://github.com/SrijanPoudel/Leetcode-Problems/tree/master/3136-valid-word) |
 ## Counting
 |  |
 | ------- |
